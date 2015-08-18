@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WorldClass()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Scroll\ the\ world\ a\ little\ and\ check\ if\ it\ is\ time\ to\ add\ a\ new\ pipe\r\n
+comment2.params=
+comment2.target=void\ newPipe()
+comment2.text=\r\n\ Create\ a\ new\ pipe\ when\ required\ at\ given\ intervals\ and\ locations,\ along\ with\ a\ Boundary\ object.\r\n
+comment3.params=
+comment3.target=void\ score()
+comment4.params=
+comment4.target=void\ lost()
+comment4.text=\r\n\ Stop\ the\ game\ and\ show\ the\ GameOver\ Screen\r\n
+comment5.params=position
+comment5.target=void\ paint(int)
+comment5.text=\r\n\ To\ show\ a\ scrolling\ background\ at\ given\ position\ and\ make\ it\ fill\ the\ screen.\r\n
+comment6.params=width\ height
+comment6.target=greenfoot.GreenfootImage\ getScrollingImage(int,\ int)
+numComments=7

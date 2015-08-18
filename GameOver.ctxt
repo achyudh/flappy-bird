@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=GameOver(int)
+comment1.params=score
+comment1.target=int\ getBestScore(int)
+comment1.text=\r\n\ Returns\ the\ best\ score\ attained\ by\ the\ player\ and\ checks\ if\ this\ is\ a\ new\ highscore.\r\n\ If\ yes,\ then\ it\ returns\ that\ value\ and\ sets\ it\ as\ the\ high\ score.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Resets\ the\ world\ upon\ pressing\ Enter\ to\ start\ a\ new\ game.\r\n
+numComments=3

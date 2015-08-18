@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bird()
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\r\n\ To\ animate\ the\ bird's\ wings.\r\n
+comment4.params=
+comment4.target=void\ flapUp()
+comment4.text=\r\n\ Flap\ up\ either\ on\ mouse\ click\ or\ keyboard\ input.\r\n
+numComments=5
