@@ -71,10 +71,10 @@ public class Bird extends Actor
      */
     private void flapUp()
     {
-        final int jumpDist = -12;
+        final int jumpDist = -18;
         if(Greenfoot.mouseClicked(null))
         {
-            moveY = jumpDist;                        
+            moveY = jumpDist;                       
         }
 
         else if(Greenfoot.isKeyDown("space")||Greenfoot.isKeyDown("up"))
