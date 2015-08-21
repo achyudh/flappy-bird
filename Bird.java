@@ -13,7 +13,7 @@ public class Bird extends Actor
     
     private int moveY = 5;  //Simulates gravity by specifying the amount that the bird will move down each time
                             //When the bird jumps, the moveY variable is set to a negative value and the bird moves up
-                            //To reset to initial state, moveY is increased by 1 kn each act until it is equal to 5
+                            //To reset to initial state, moveY is increased by 1 each act until it is equal to 5
                             
     private int imageNumber = 1; //Used for animating the bird's wings
 

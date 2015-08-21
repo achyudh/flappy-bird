@@ -9,9 +9,7 @@ import greenfoot.*;
 public class BottomPipe extends Actor
 {
     private GreenfootImage imgBottom;
-    
-    private int pos; //The midpoint of the gap in the pipes
-           
+    private int pos; //The midpoint of the gap in the pipes       
     private boolean isInitialized = false; //Checks if the pipe has been initialized on the screen.
   
     public BottomPipe(int location)
