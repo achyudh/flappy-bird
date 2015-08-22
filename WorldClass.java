@@ -63,8 +63,8 @@ public class WorldClass extends World
     private void newPipe()
     {
         int newPipe = lastPipe + Greenfoot.getRandomNumber(300) - 100;
-        if(newPipe < 100) newPipe = 100;
-        if(newPipe > 400) newPipe = 400; 
+        if(newPipe < 100) newPipe = 100 + Greenfoot.getRandomNumber(150);
+        if(newPipe > 400) newPipe = 400 - Greenfoot.getRandomNumber(150); 
 
         addObject(new TopPipe(newPipe), 0, 0);
         addObject(new BottomPipe(newPipe), 0, 0);
